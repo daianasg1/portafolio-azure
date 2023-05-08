@@ -1,0 +1,25 @@
+/*===============Propiedades Globales================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+/*===================SLIDER DE IMAGENES==========================*/
+
+.carousel-inner {
+    max-height:39rem !important;
+}
+
+.contenedor{
+    
+    flex-direction: row;
+    width: 100%;
+    margin: 10px 0 10px 0;
+    
+    }
+
+    #pandemia{
+    margin-right: 80%;
+    }
